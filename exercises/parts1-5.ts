@@ -4,7 +4,7 @@
 
 // Part 1: Declare (5) Variables With Type
 
-
+ let spacecraftName : String ="Determination";
 
 // Part 2: Print Days to Mars
 
